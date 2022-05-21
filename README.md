@@ -1,4 +1,7 @@
 # Starbucks_Recommendation_FunkSVD
+## Blog link
+https://medium.com/@olubodem/starbucks-offer-recommendation-bd399e79bfb8
+
 ## Libraries used
 The following are the libraries used in the project
 pandas as pd
